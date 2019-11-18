@@ -9,3 +9,7 @@ Then same proccess is done using multi linear regression for FUELCONSUMPTION_CIT
 # non linear regression [$ python nonLinearRegression.py]
 The .cvs file contains two columns: the first, a year between 1960 and 2014, the second, China's corresponding annual gross domestic income in US dollars for that year.
 The script exposes different non linear examples and ((for .cvs datas) uses non linear regression for model creation (with logistic function) and train-test split for model accurancy evalutation. 
+
+# classification K-Nearest Neighbors [$ python classificationKNN.py]
+The .cvs file contains telecommunication provider customer dataset (1000 sample) with four target customer-type info.
+The script exposes classification model train-test split using Knn algo with different k value.
