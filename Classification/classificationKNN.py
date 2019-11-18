@@ -30,7 +30,7 @@ if enablePlotDataset == True:
     
 # plot customer classes number    
 print("The dataset contains following classes [1->Basic-service 2-> E-Service customers 3->Plus Service 4->Total Service]:")
-df['custcat'].value_counts()
+print(df['custcat'].value_counts())
 
 if enablePlotHisto == True:
     # plot histogram of some features ( x assis value of features, y axis the occurences)
