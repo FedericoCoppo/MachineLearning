@@ -13,3 +13,10 @@ The script exposes different non linear examples and ((for .cvs datas) uses non 
 # classification K-Nearest Neighbors [$ python classificationKNN.py]
 The .cvs file contains telecommunication provider customer dataset (1000 sample) with four target customer-type info.
 The script exposes classification model train-test split using Knn algo with different k value.
+
+# decision trees [$ python decisionTrees.py]
+The dataset contains set of patients that suffered from the same illness; each patient responded to one of 5 medications target (Drug A,B,C,X,Y). The script try to create a model to find out which drug might be appropriate for a future patient with the same illness using decision trees.
+
+# logistic regression [$ python logisticRegression.py]
+The dataset contains telecommunications company's customers info and turnover.
+The script uses logistic regression for customer classification model and uses jaccard index, confusion matrix and log loss for model accuracy calculation. 
