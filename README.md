@@ -20,3 +20,6 @@ The dataset contains set of patients that suffered from the same illness; each p
 # logistic regression [$ python logisticRegression.py]
 The dataset contains telecommunications company's customers info and turnover.
 The script uses logistic regression for customer classification model and uses jaccard index, confusion matrix and log loss for model accuracy calculation. 
+
+# support vector machine [$ python svm.py]
+The dataset contains human cell dataset. The script uses support vector machine for benign/malignant cancer classification model (train/test) and uses jaccard index, confusion matrix and f1-score for model accuracy calculation. 
