@@ -23,3 +23,6 @@ The script uses logistic regression for customer classification model and uses j
 
 # support vector machine [$ python svm.py]
 The dataset contains human cell dataset. The script uses support vector machine for benign/malignant cancer classification model (train/test) and uses jaccard index, confusion matrix and f1-score for model accuracy calculation. 
+
+# clustering k-means algo [$ python clusteringKmeans.py]
+The dataset contains customer dataset. The script uses clustering k-means algo (sklearn.cluster) for customer segmentation using both random dataset and customer dataset.
