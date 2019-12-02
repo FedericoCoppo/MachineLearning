@@ -22,7 +22,10 @@ The dataset contains telecommunications company's customers info and turnover.
 The script uses logistic regression for customer classification model and uses jaccard index, confusion matrix and log loss for model accuracy calculation. 
 
 # support vector machine [$ python svm.py]
-The dataset contains human cell dataset. The script uses support vector machine for benign/malignant cancer classification model (train/test) and uses jaccard index, confusion matrix and f1-score for model accuracy calculation. 
+The dataset contains human cell data. The script uses support vector machine for benign/malignant cancer classification model (train/test) and uses jaccard index, confusion matrix and f1-score for model accuracy calculation. 
 
 # clustering k-means algo [$ python clusteringKmeans.py]
-The dataset contains customer dataset. The script uses clustering k-means algo (sklearn.cluster) for customer segmentation using both random dataset and customer dataset.
+The dataset contains customer data. The script uses clustering k-means algo (sklearn.cluster) for customer segmentation using both random dataset and customer dataset.
+
+# hierarchical clustering [$ python clusteringHierarchical.py]
+The dataset contains vehicle characteristic data. The script uses clustering agglomerative algo for bottom up clustering using both a random genrated dataset and vehicle dataset.
