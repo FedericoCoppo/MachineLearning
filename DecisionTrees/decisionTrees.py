@@ -2,7 +2,7 @@
 # 18/11/2019 
 
 # readme:
-# waiting for 3.2.0 install the following relese candidate
+# waiting for 3.2.0 install the following release candidate
 # $ pip install matplotlib==3.2.0rc1
 
 # the script try to create a model to find out which drug might be appropriate for a future patient with the same illness
