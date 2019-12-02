@@ -1,5 +1,5 @@
 # MachineLearning
-machine learning code 
+tutorial code modified for experimental purposes from edx machine learning  IMB course.
 
 # linear regression  [$ python linearRegression.py]
 The .cvs file contains model-specific fuel consumption ratings and estimated carbon dioxide emissions for new light-duty vehicles for retail sale in Canada.
