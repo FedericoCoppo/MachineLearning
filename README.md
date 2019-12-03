@@ -29,3 +29,6 @@ The dataset contains customer data. The script uses clustering k-means algo (skl
 
 # hierarchical clustering [$ python clusteringHierarchical.py]
 The dataset contains vehicle characteristic data. The script uses clustering agglomerative algo for bottom up clustering using both a random genrated dataset and vehicle dataset.
+
+# dbscan clustering [$ python dbscanClustering.py]
+The dataset contains weather station data. The script uses "density-based spatial clustering of applications with noise" algo for dataset clustering.
