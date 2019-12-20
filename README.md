@@ -34,4 +34,4 @@ The dataset contains vehicle characteristic data. The script uses clustering agg
 The dataset contains weather station data. The script uses "density-based spatial clustering of applications with noise" algo for dataset clustering.
 
 # content base recommender  [$ python contentBaseRecommender.py]
-The dataset contains movies info dataset. The script uses content-based recommendation systems algo to recommend movies to users based on movie info taken from the user.
+The dataset contains movies info dataset. The script uses content-based recommendation systems algo to recommend movies to users based on movie info taken from the user. in addition the script contains collaborative filtering part example (using the same dataset).
