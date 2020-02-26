@@ -35,3 +35,6 @@ The dataset contains weather station data. The script uses "density-based spatia
 
 # content base recommender  [$ python contentBaseRecommender.py]
 The dataset contains movies info dataset. The script uses content-based recommendation systems algo to recommend movies to users based on movie info taken from the user. in addition the script contains collaborative filtering part example (using the same dataset).
+
+# NY_311_DataScienceProject.ipynb
+The file contains project developed to analyze data of 311 complaint in NY city.
